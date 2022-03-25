@@ -1,7 +1,7 @@
 ---
 galaxy_info:
-  author: Robert de Bock
-  namespace: robertdebock
+  author: Robert de Bock MikePadge
+  namespace: MikePadge
   role_name: xrdp
   description: Install and configure xrdp on your system.
   license: Apache-2.0
